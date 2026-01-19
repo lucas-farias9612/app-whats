@@ -1,0 +1,7 @@
+{
+  "name": "WPPConnect CRM Kanban",
+  "description": "A professional WhatsApp CRM and Kanban system built with React, featuring real-time chat, lead management, and AI-powered message suggestions via Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
